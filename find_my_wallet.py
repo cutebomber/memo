@@ -8,7 +8,7 @@ Usage:
     python find_my_wallet.py
 """
 
-SENDER_MNEMONIC = "word1 word2 ... word24"   # <-- paste your 24-word seed phrase here
+SENDER_MNEMONIC = "cash matrix behind engage hover shoulder include dove process bachelor body cousin lemon around kitten utility trend sunset arm swift host purity animal dose"   # <-- paste your 24-word seed phrase here
 
 # ──────────────────────────────────────────────────────────────────────────────
 
